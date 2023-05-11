@@ -1,0 +1,8 @@
+C:\Users\uczen\Documents\Klasa2P\konsolacz2\bin\Debug\konsolacz2.exe.config
+C:\Users\uczen\Documents\Klasa2P\konsolacz2\bin\Debug\konsolacz2.exe
+C:\Users\uczen\Documents\Klasa2P\konsolacz2\bin\Debug\konsolacz2.pdb
+C:\Users\uczen\Documents\Klasa2P\konsolacz2\obj\Debug\konsolacz2.csproj.AssemblyReference.cache
+C:\Users\uczen\Documents\Klasa2P\konsolacz2\obj\Debug\konsolacz2.csproj.SuggestedBindingRedirects.cache
+C:\Users\uczen\Documents\Klasa2P\konsolacz2\obj\Debug\konsolacz2.csproj.CoreCompileInputs.cache
+C:\Users\uczen\Documents\Klasa2P\konsolacz2\obj\Debug\konsolacz2.exe
+C:\Users\uczen\Documents\Klasa2P\konsolacz2\obj\Debug\konsolacz2.pdb
